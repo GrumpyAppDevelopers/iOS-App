@@ -3,7 +3,7 @@
 // Change repo name after we choose which app we want to make
 // https://stackoverflow.com/questions/5751585/how-do-i-rename-a-repository-on-github
 
-#### Top 3 App Ideas
+#### App Ideas
 #### Hours of Facilities
 Category: Productivity
 Mobile: Uses local time.
@@ -18,13 +18,6 @@ Story: Connects users to a potential roommate using preferences and based on you
 Market: Anyone.
 Habit: Once in a while, once a year. Once a semester.
 Scope: Anyone looking for a new roommate.
-#### Electronic File Cabinet
-Category: Productivity
-Mobile: Uses camera, mobile.
-Story: File things based on categories.
-Market: Anyone.
-Habit: Whenever you need to record something.
-Scope: Anyone trying to be organized.
 
 ### App Description
 // TODO: Add App Description
